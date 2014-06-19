@@ -1,3 +1,2 @@
-.meteor/*
-package/*
-packages/*
+.meteor/local
+.meteor/meteorite

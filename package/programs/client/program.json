@@ -1,0 +1,965 @@
+{
+  "format": "browser-program-pre1",
+  "manifest": [
+    {
+      "path": "79d80ef7fe2d9d6e64c5c1b702bfa7a16c93e762.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/79d80ef7fe2d9d6e64c5c1b702bfa7a16c93e762.js",
+      "size": 375799,
+      "hash": "79d80ef7fe2d9d6e64c5c1b702bfa7a16c93e762"
+    },
+    {
+      "path": "f216e0c1585234475cf29d54606eeab9e4a8183a.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/f216e0c1585234475cf29d54606eeab9e4a8183a.css?meteor_css_resource=true",
+      "size": 141263,
+      "hash": "f216e0c1585234475cf29d54606eeab9e4a8183a"
+    },
+    {
+      "path": "app/fonts/FontAwesome.otf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/FontAwesome.otf",
+      "size": 62856,
+      "hash": "b5b4f9be85f91f10799e87a083da1d050f842734"
+    },
+    {
+      "path": "app/fonts/fontawesome-webfont.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/fontawesome-webfont.eot",
+      "size": 38205,
+      "hash": "7619748fe34c64fb157a57f6d4ef3678f63a8f5e"
+    },
+    {
+      "path": "app/fonts/fontawesome-webfont.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/fontawesome-webfont.svg",
+      "size": 202148,
+      "hash": "46fcc0194d75a0ddac0a038aee41b23456784814"
+    },
+    {
+      "path": "app/fonts/fontawesome-webfont.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/fontawesome-webfont.ttf",
+      "size": 80652,
+      "hash": "7f09c97f333917034ad08fa7295e916c9f72fd3f"
+    },
+    {
+      "path": "app/fonts/fontawesome-webfont.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/fontawesome-webfont.woff",
+      "size": 44432,
+      "hash": "04c3bf56d87a0828935bd6b4aee859995f321693"
+    },
+    {
+      "path": "app/fonts/glyphiconshalflings-regular.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/glyphiconshalflings-regular.svg",
+      "size": 51353,
+      "hash": "7cd56f31c8932947a237ab6568f34179c2b6547a"
+    },
+    {
+      "path": "app/fonts/glyphiconshalflings-regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/glyphiconshalflings-regular.ttf",
+      "size": 32896,
+      "hash": "b182504517ae0e7fbf7e2f19e112a4a8f42ccdfd"
+    },
+    {
+      "path": "app/fonts/glyphiconshalflings-regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/glyphiconshalflings-regular.woff",
+      "size": 18944,
+      "hash": "5175ba3d34f03a09a65f3d04acdcee0c02a10c41"
+    },
+    {
+      "path": "app/ico/favicon.ico",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/ico/favicon.ico",
+      "size": 7358,
+      "hash": "98926203db17d1d13967ba4d9fe90dc8e3446aa4"
+    },
+    {
+      "path": "app/img/404.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/404.jpg",
+      "size": 44924,
+      "hash": "79544afefc036c606b48738832d50ec15024ae74"
+    },
+    {
+      "path": "app/img/profile-picture.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/profile-picture.jpg",
+      "size": 10703,
+      "hash": "7ce0deb87a44e664058398fb2d6fdce4bbf72bf0"
+    },
+    {
+      "path": "app/js/nivo-lightbox.min.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/js/nivo-lightbox.min.js",
+      "size": 7621,
+      "hash": "2c8267e8b94726c11d90fa32bace913de84cb87e"
+    },
+    {
+      "path": "app/logos/backbone.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/logos/backbone.svg",
+      "size": 1057,
+      "hash": "fd4b0b1e553d662d8ac295b52f9e7395499f2deb"
+    },
+    {
+      "path": "app/logos/bower.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/logos/bower.svg",
+      "size": 4301,
+      "hash": "5b26c8ea72d4949679f578402d6593715da7d824"
+    },
+    {
+      "path": "app/logos/css3.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/logos/css3.svg",
+      "size": 491,
+      "hash": "1557e7b47f18bca21daf3c7ae9643a38d240f0d5"
+    },
+    {
+      "path": "app/logos/ember.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/logos/ember.png",
+      "size": 39455,
+      "hash": "22261cdfc85a27d0fdab3582caad2835dbc510e3"
+    },
+    {
+      "path": "app/logos/famous.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/logos/famous.svg",
+      "size": 1417,
+      "hash": "a3c8825353b6f42d6f43ab50a64259f13c529916"
+    },
+    {
+      "path": "app/logos/git.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/logos/git.svg",
+      "size": 3393,
+      "hash": "26398d18c8cc2ecf3521758b645a32aeb6cbb1b3"
+    },
+    {
+      "path": "app/logos/grunt.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/logos/grunt.svg",
+      "size": 34263,
+      "hash": "50cd9ee197878bf39b75b74b35d6604c8f456093"
+    },
+    {
+      "path": "app/logos/html5.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/logos/html5.svg",
+      "size": 1170,
+      "hash": "5b1d715f9bbbcb3eef2095a0fa5c2c8471c975c3"
+    },
+    {
+      "path": "app/logos/jquery.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/logos/jquery.svg",
+      "size": 23224,
+      "hash": "1e26a17e77368d81c5e298a9b11ca68ea48d2dc6"
+    },
+    {
+      "path": "app/logos/less.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/logos/less.png",
+      "size": 8169,
+      "hash": "3148f065c24dbb22df4341212e0b78c5f392d00d"
+    },
+    {
+      "path": "app/logos/meteor.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/logos/meteor.png",
+      "size": 17373,
+      "hash": "40062d1ae863793821449e457bf9f01315206e79"
+    },
+    {
+      "path": "app/logos/sass.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/logos/sass.svg",
+      "size": 18620,
+      "hash": "fc7b0b8ce945af482986457fdf002aff79f82881"
+    },
+    {
+      "path": "app/logos/yeoman.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/logos/yeoman.svg",
+      "size": 18121,
+      "hash": "a96433cf6a087a7abb0980ec202a1c8ca0f84a65"
+    },
+    {
+      "path": "app/img/theme/close.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/theme/close.png",
+      "size": 2949,
+      "hash": "2d92ac4c14a958c17a2ad78157d6825aa952f216"
+    },
+    {
+      "path": "app/img/theme/close@2x.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/theme/close@2x.png",
+      "size": 3097,
+      "hash": "48dfeefe99ab2683430fb11703f4e0c8f210dc05"
+    },
+    {
+      "path": "app/img/theme/loading.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/theme/loading.gif",
+      "size": 7303,
+      "hash": "f14eab8b78e369c1609d52003afb7fc4045c14f4"
+    },
+    {
+      "path": "app/img/theme/loading@2x.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/theme/loading@2x.gif",
+      "size": 18134,
+      "hash": "47eb7304cf0d08da5310464b6d612c3054ffc17b"
+    },
+    {
+      "path": "app/img/theme/next.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/theme/next.png",
+      "size": 3193,
+      "hash": "56de74941939bb5689b5b5d5af9ead1c631c8b4e"
+    },
+    {
+      "path": "app/img/theme/next@2x.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/theme/next@2x.png",
+      "size": 4235,
+      "hash": "33c47883471024866919c7578edf75fcb1892fcb"
+    },
+    {
+      "path": "app/img/theme/prev.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/theme/prev.png",
+      "size": 3184,
+      "hash": "680f7ccc1c7bffdefb2fe71861012a9d51ec416b"
+    },
+    {
+      "path": "app/img/theme/prev@2x.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/theme/prev@2x.png",
+      "size": 4224,
+      "hash": "b34ffe3c35643d4e2ac798248780f5008158961d"
+    },
+    {
+      "path": "app/img/projects/1/1.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/1/1.gif",
+      "size": 2519,
+      "hash": "1d4e5044f255574e31244dade03bc3d851decf6e"
+    },
+    {
+      "path": "app/img/projects/1/2.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/1/2.gif",
+      "size": 1935,
+      "hash": "de0da2ddc8459006eeefc80071b9cc1156bc33cb"
+    },
+    {
+      "path": "app/img/projects/1/3.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/1/3.gif",
+      "size": 2115,
+      "hash": "63b8f2e5b098a732c5411f9b4c08f8b835d3fe6b"
+    },
+    {
+      "path": "app/img/projects/aeg/1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/aeg/1.jpg",
+      "size": 144730,
+      "hash": "93bd1b8c0d453157faa430033d6969116c6324ff"
+    },
+    {
+      "path": "app/img/projects/aeg/2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/aeg/2.jpg",
+      "size": 155031,
+      "hash": "04a701ccf72347c754fe69b78db11420dbad3ed1"
+    },
+    {
+      "path": "app/img/projects/aeg/3.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/aeg/3.jpg",
+      "size": 104538,
+      "hash": "0316fbd150b4879b0f68d92fb285052d454dce32"
+    },
+    {
+      "path": "app/img/projects/aeg/4.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/aeg/4.jpg",
+      "size": 73862,
+      "hash": "2daf2875bfa13fc398219c27fb77e7a8e3fe7129"
+    },
+    {
+      "path": "app/img/projects/aeg/5.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/aeg/5.jpg",
+      "size": 60192,
+      "hash": "354b1fc0e954770da8fffb2f50c0e0750ebb7f95"
+    },
+    {
+      "path": "app/img/projects/aeg/6.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/aeg/6.jpg",
+      "size": 59165,
+      "hash": "40f1d4adffa12b673d1f516455925a42dcee334a"
+    },
+    {
+      "path": "app/img/projects/aeg/thmb.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/aeg/thmb.jpg",
+      "size": 24423,
+      "hash": "0b406e236e441bf9828141ef0236dcd28795b982"
+    },
+    {
+      "path": "app/img/projects/ala/1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/ala/1.jpg",
+      "size": 116762,
+      "hash": "bbd4980c215814c7b9bf43ced8c5c611a9822ceb"
+    },
+    {
+      "path": "app/img/projects/ala/2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/ala/2.jpg",
+      "size": 89874,
+      "hash": "450c66e67b8909c41d3d86bd18b8c1a7f1bd86ab"
+    },
+    {
+      "path": "app/img/projects/ala/3.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/ala/3.jpg",
+      "size": 110793,
+      "hash": "03817bb5970361c6f88c7b5e193a9ecdf0285397"
+    },
+    {
+      "path": "app/img/projects/ala/4.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/ala/4.jpg",
+      "size": 72023,
+      "hash": "93332738bbcfb69145760a655f91a0d35ebcdcc2"
+    },
+    {
+      "path": "app/img/projects/ala/thmb.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/ala/thmb.jpg",
+      "size": 23757,
+      "hash": "81dc60342aa65a8d226e0dba294c4b7977cb921d"
+    },
+    {
+      "path": "app/img/projects/bio/1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/bio/1.jpg",
+      "size": 135287,
+      "hash": "184f7217ced519cda406ed3d2399b7770baa7ad8"
+    },
+    {
+      "path": "app/img/projects/bio/2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/bio/2.jpg",
+      "size": 70215,
+      "hash": "7dbf4c0ce04c429bd698475b1bba1596b9a60580"
+    },
+    {
+      "path": "app/img/projects/bio/3.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/bio/3.jpg",
+      "size": 110555,
+      "hash": "0943825169a8e71c195b9c3ba21bf76a00cf5a35"
+    },
+    {
+      "path": "app/img/projects/bio/4.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/bio/4.jpg",
+      "size": 137445,
+      "hash": "fcdf63ff3ca11edda636595db3fad7d4d6cf71c9"
+    },
+    {
+      "path": "app/img/projects/bio/thmb.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/bio/thmb.jpg",
+      "size": 25344,
+      "hash": "d95ca3cafec1e17190b4440366b19cf915a7dc24"
+    },
+    {
+      "path": "app/img/projects/elx/1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/elx/1.jpg",
+      "size": 191589,
+      "hash": "6701463afd378fdc5b782d59d9f1b740f1f23e91"
+    },
+    {
+      "path": "app/img/projects/elx/2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/elx/2.jpg",
+      "size": 212843,
+      "hash": "2c24cf786b3377e423f04d95863e72533d27e228"
+    },
+    {
+      "path": "app/img/projects/elx/3.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/elx/3.jpg",
+      "size": 175134,
+      "hash": "ded7ffe44c6c9b77e98ba92df886d86249424841"
+    },
+    {
+      "path": "app/img/projects/elx/4.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/elx/4.jpg",
+      "size": 86430,
+      "hash": "b9bc4425a4ef7f9254c37c8951570b6569d40136"
+    },
+    {
+      "path": "app/img/projects/elx/5.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/elx/5.jpg",
+      "size": 85231,
+      "hash": "eecab33c0f5ee08f34d340e11f1e4b7ed3861a58"
+    },
+    {
+      "path": "app/img/projects/elx/6.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/elx/6.jpg",
+      "size": 76144,
+      "hash": "03283e137812a7723d328fb4f93234eb3c0f4a24"
+    },
+    {
+      "path": "app/img/projects/elx/thmb.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/elx/thmb.jpg",
+      "size": 26624,
+      "hash": "c22e50bcaeddaa02bd1a08d378309f095985ac98"
+    },
+    {
+      "path": "app/img/projects/gal/1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/gal/1.jpg",
+      "size": 73005,
+      "hash": "0cd82c1d784e2e188424d50e47109f42db997756"
+    },
+    {
+      "path": "app/img/projects/gal/2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/gal/2.jpg",
+      "size": 90331,
+      "hash": "b317b41e040d92fab87cc1223d133923c34723ff"
+    },
+    {
+      "path": "app/img/projects/gal/3.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/gal/3.jpg",
+      "size": 92500,
+      "hash": "b720c7d180b0b1c602fec52612f81ea4a093b788"
+    },
+    {
+      "path": "app/img/projects/gal/thmb.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/gal/thmb.jpg",
+      "size": 22376,
+      "hash": "72f20560067a4ddbb9b75cf62806438de144031a"
+    },
+    {
+      "path": "app/img/projects/gel/1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/gel/1.jpg",
+      "size": 94032,
+      "hash": "3b65a60f5c2e6ca93e4a622d2834d168b52ab32b"
+    },
+    {
+      "path": "app/img/projects/gel/2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/gel/2.jpg",
+      "size": 118658,
+      "hash": "e60f15265591520d1fe31934aa2ac5b10c80900c"
+    },
+    {
+      "path": "app/img/projects/gel/3.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/gel/3.jpg",
+      "size": 94706,
+      "hash": "0a9fa85687bb8f25f093924700da9042a40fb497"
+    },
+    {
+      "path": "app/img/projects/gel/4.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/gel/4.jpg",
+      "size": 63316,
+      "hash": "c76063909201a8ad58b619397a2cc5e6d229a96a"
+    },
+    {
+      "path": "app/img/projects/gel/thmb.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/gel/thmb.jpg",
+      "size": 22030,
+      "hash": "1b7a0c07bbb766c4e4a48ee7816a772404a956b6"
+    },
+    {
+      "path": "app/img/projects/mt/1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/mt/1.jpg",
+      "size": 155837,
+      "hash": "97f525db676e18a7d280ec9ee0d90e6ee2a456bd"
+    },
+    {
+      "path": "app/img/projects/mt/2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/mt/2.jpg",
+      "size": 93560,
+      "hash": "ac56e9d214db4493662b84281626f80c9e395802"
+    },
+    {
+      "path": "app/img/projects/mt/3.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/mt/3.jpg",
+      "size": 95764,
+      "hash": "a290c65f84d3a1641803fae703ee0eb56bab6cae"
+    },
+    {
+      "path": "app/img/projects/mt/thmb.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/mt/thmb.jpg",
+      "size": 34628,
+      "hash": "8226f3ccf307b4bd87a7494105c155115c6acbc9"
+    },
+    {
+      "path": "app/img/projects/pt/1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/pt/1.jpg",
+      "size": 107185,
+      "hash": "5f2804e0f4c1e992e1be4705b5a19151b62b93c0"
+    },
+    {
+      "path": "app/img/projects/pt/2.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/pt/2.png",
+      "size": 74227,
+      "hash": "2457850bff4e83101252c478d76f9cabc79590bb"
+    },
+    {
+      "path": "app/img/projects/pt/3.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/pt/3.png",
+      "size": 141904,
+      "hash": "df49ceb4035d06910c2941cb260b2b686656b9de"
+    },
+    {
+      "path": "app/img/projects/pt/4.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/pt/4.png",
+      "size": 96629,
+      "hash": "632ab70ef688051aa32fcd445e9d35f999b980b9"
+    },
+    {
+      "path": "app/img/projects/pt/5.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/pt/5.png",
+      "size": 100275,
+      "hash": "e9eda19fd0079de4e7d367aff03bd6dc2c7fac70"
+    },
+    {
+      "path": "app/img/projects/pt/6.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/pt/6.png",
+      "size": 212931,
+      "hash": "5abcb670239dbae7f289f13d2a695c3523f4fa5e"
+    },
+    {
+      "path": "app/img/projects/pt/7.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/pt/7.png",
+      "size": 62671,
+      "hash": "37edd2613efe1854d08d901399bb1cb54d348330"
+    },
+    {
+      "path": "app/img/projects/pt/thmb.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/pt/thmb.jpg",
+      "size": 25749,
+      "hash": "9bf519c8a761dfbccc739824ac5ea94a71d73d44"
+    },
+    {
+      "path": "app/img/projects/rz/1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/rz/1.jpg",
+      "size": 190576,
+      "hash": "778079302b9ea035b0c489949b88e49dee22bc0d"
+    },
+    {
+      "path": "app/img/projects/rz/2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/rz/2.jpg",
+      "size": 142866,
+      "hash": "b9c708edf23f0503711c71c244c347b9efa1b933"
+    },
+    {
+      "path": "app/img/projects/rz/3.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/rz/3.jpg",
+      "size": 139520,
+      "hash": "ab2072d4f92360b2fbe47d292371f801a51bdade"
+    },
+    {
+      "path": "app/img/projects/rz/thmb.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/rz/thmb.jpg",
+      "size": 33150,
+      "hash": "d2a0ab6631f69c72d827b4c09e18e00cd33be415"
+    },
+    {
+      "path": "app/img/projects/soa/1.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/soa/1.png",
+      "size": 41858,
+      "hash": "b35701559be320904222b81ba59603b127c3ee79"
+    },
+    {
+      "path": "app/img/projects/soa/2.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/soa/2.png",
+      "size": 121738,
+      "hash": "593fc12313e142e92a8d5d60c97cd03351720395"
+    },
+    {
+      "path": "app/img/projects/soa/3.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/soa/3.png",
+      "size": 184141,
+      "hash": "1613c63984a4760cef606d6d6363379124f968c3"
+    },
+    {
+      "path": "app/img/projects/soa/4.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/soa/4.png",
+      "size": 105068,
+      "hash": "b68da020541c27d304d9bb82f7852700637f6f31"
+    },
+    {
+      "path": "app/img/projects/soa/5.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/soa/5.png",
+      "size": 210899,
+      "hash": "63c1c03a47db8034e4814775c0ed676b48ed128b"
+    },
+    {
+      "path": "app/img/projects/soa/6.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/soa/6.png",
+      "size": 119396,
+      "hash": "f1f41929b0fb8004af104c4bb8c8f733af29d99b"
+    },
+    {
+      "path": "app/img/projects/soa/7.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/soa/7.png",
+      "size": 136839,
+      "hash": "294270aad3f60cca2a2016c4f019862bdc4ace33"
+    },
+    {
+      "path": "app/img/projects/soa/8.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/soa/8.png",
+      "size": 184748,
+      "hash": "bb1b01d0ed78f45f796c5976ccfe725dc001ac36"
+    },
+    {
+      "path": "app/img/projects/soa/thmb.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/soa/thmb.jpg",
+      "size": 13168,
+      "hash": "f4d601bfd1c3df3eeaa3f4f72392a8b6e301ea6f"
+    },
+    {
+      "path": "app/img/projects/wc/1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/wc/1.jpg",
+      "size": 90509,
+      "hash": "a376ea7d784bf2f315fc1ee53518df0ea81f0dbf"
+    },
+    {
+      "path": "app/img/projects/wc/2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/wc/2.jpg",
+      "size": 149638,
+      "hash": "af4dd42e865b63cbbcae86664116c1c484f6c71d"
+    },
+    {
+      "path": "app/img/projects/wc/3.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/wc/3.jpg",
+      "size": 119166,
+      "hash": "25bb06a62b269465cb2d9cc3e57f8765be6ffb05"
+    },
+    {
+      "path": "app/img/projects/wc/4.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/wc/4.jpg",
+      "size": 105017,
+      "hash": "81609ccbf4c77afbf29e400a9cf0a2b4b119b8fe"
+    },
+    {
+      "path": "app/img/projects/wc/thmb.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/wc/thmb.jpg",
+      "size": 22927,
+      "hash": "f7b1e0ec4fd86353151f889f8ca825eb4eddea0b"
+    },
+    {
+      "path": "app/img/projects/zan/1.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/zan/1.jpg",
+      "size": 183177,
+      "hash": "2a7ce3db0ed477ad85b916d7187bbfb6eb60edaf"
+    },
+    {
+      "path": "app/img/projects/zan/2.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/zan/2.jpg",
+      "size": 195465,
+      "hash": "0bd4aad85fc9bf44c75514cd56a54619ed71f36f"
+    },
+    {
+      "path": "app/img/projects/zan/3.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/zan/3.jpg",
+      "size": 193150,
+      "hash": "95696c0c8b210b918c032c5665a40a82249a7d0e"
+    },
+    {
+      "path": "app/img/projects/zan/4.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/zan/4.jpg",
+      "size": 81336,
+      "hash": "5eddbbf9bbf5075d72cdf612f53e15fd8c10eb55"
+    },
+    {
+      "path": "app/img/projects/zan/thmb.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/projects/zan/thmb.jpg",
+      "size": 34125,
+      "hash": "781c13ebfe9bc37a99a8041249039d1ec37a5c3f"
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "2b6e64cd37848ead123782b5114256faf17de5ac"
+    }
+  ]
+}

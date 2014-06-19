@@ -7,7 +7,7 @@
   "domains": [
     "armand.rozanski.pro"
   ],
-  "version": "0.1.0",
+  "version": "0.1.7",
   "engines": {
     "node": "0.10.x"
   },
