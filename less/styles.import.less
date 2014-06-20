@@ -147,10 +147,10 @@ nav {
 
         li {
             float:left;
-            .width(165px);
+            width: 23.6%;
             .font-size(24px);
             border: 1px solid #d63d3f;
-            .padding-right(10px);
+            //.padding-right(10px);
             .margin-right(3px);
             color: #fff;
             cursor: pointer;
@@ -177,7 +177,7 @@ nav {
             }
 
             a {
-               .width(161px);
+               width: 100%;
                display: inline-block;
             }
         }
@@ -460,13 +460,6 @@ nav {
    }
 }
 
-/* Smartphones (portrait and landscape) ----------- */
-@media only screen 
-and (min-device-width : 320px) 
-and (max-device-width : 480px) {
-    
-}
-
 /* Smartphones (landscape) ----------- */
 @media only screen 
 and (min-width : 321px)
@@ -480,29 +473,6 @@ and (orientation : landscape) {
         p.description {
             .margin-left(23px);
         }
-    }
-
-    nav  {
-        ul {
-            li {
-            .width(22.8%);
-            .padding(0);
-
-                a {
-                .width(59px);
-
-                    i {
-                        .width(100px);
-                        .height(34px);
-                        text-align: center;
-                    }
-
-                    span {
-                        display: none;
-                    }
-                }
-            }
-        } 
     }
 
     .projects-timeline {
@@ -569,29 +539,6 @@ and (max-width : 320px) {
     .social-icons {
         float: inherit;
         overflow: hidden;
-    }
-
-   nav  {
-        ul {
-            li {
-            .width(21.6%);
-            .padding(0);
-
-                a {
-                .width(59px);
-
-                    i {
-                        .width(60px);
-                        .height(38px);
-                        text-align: center;
-                    }
-
-                    span {
-                        display: none;
-                    }
-                }
-            }
-        } 
     }
 
     .right-col .secondary-heading {
@@ -765,3 +712,30 @@ only screen and (-webkit-min-device-pixel-ratio : 1.5),
 only screen and (min-device-pixel-ratio : 1.5) {
 /* Styles */
 }
+
+/* B3 MQ */
+/* Small devices (mobile & tablets, up to 768px) */
+@media (max-width: 767px) { 
+  nav { 
+    margin-left:0;
+
+    ul li {
+      width: 24%;
+      margin-right: 1%;
+        i {
+          width: 100%;
+          text-align: center;
+      } 
+
+      &.contact {
+        margin-right: 0;
+      }
+    } 
+  }
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {  }
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {  }
