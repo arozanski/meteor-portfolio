@@ -4,3 +4,12 @@ Template.projects.events({
         $(event.currentTarget).nivoLightbox();
 	}
 });
+
+Projects = new Meteor.Collection('projects');
+Meteor.subscribe('projects');
+
+Template.projects.helpers({
+	projects: function() {
+		return Projects.find();
+	}
+});
