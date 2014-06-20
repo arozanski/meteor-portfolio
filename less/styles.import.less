@@ -61,12 +61,6 @@ section {
     .padding-top(0);
 }
 
-@media (min-width: 768px) {
-  .container {
-    max-width: 730px;
-  }
-}
-
 /* social icons */
 .social-icons, .social-icons-small {
     list-style: none;
@@ -545,10 +539,6 @@ and (max-width : 320px) {
         .font-size(24px);
     }
 
-    .map iframe {
-        width: 100%;
-    }
-
     .timeline {
         .margin-bottom(30px);
 
@@ -691,10 +681,19 @@ and (max-device-width : 1024px) {
       }
     } 
   }
+
+  .map iframe {
+    width: 100%;
+    .margin-top(15px);
+  }
 }
 
 /* Medium & larde devices (desktops, tablets) */
-@media (min-width: 768px) {  }
+@media (min-width: 768px) { 
+  .container {
+    max-width: 730px;
+  }  
+}
 
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {  }
